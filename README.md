@@ -1,6 +1,4 @@
-# credit-risk-classification
-
-# Module 12 Report Template
+# Module 20 Report
 
 ## Overview of the Analysis
 Factors considered in the analysis included data on:
