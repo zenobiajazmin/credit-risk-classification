@@ -24,3 +24,6 @@ Logistic Regression Model 1:
 ## Summary
 
 The recommendation would be to go with this model. The logisitic regression model predicts a healthy, low-risk loan with 100% precision. It predicts a high-risk loan with lower precision at 87%. The balanced accuracy of the model is 94%. The accuracy score is 99%, this model performs exceptionally well.
+
+
+I utilized my insturctor, chatgpt, as well as private tutors to complete this assignment.
